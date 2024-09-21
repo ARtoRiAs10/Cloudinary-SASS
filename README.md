@@ -3,7 +3,9 @@
 This is a SaaS image processing application built using Next.js, Next Cloudinary, and Cloudinary AI. The platform allows users to upload images, preview them in real-time, and leverages Cloudinary AI to automatically scale and optimize images based on the content and usage context.
 
 **Features**
+
 -Image Upload: Upload images seamlessly through a user-friendly interface.
+
 -Real-time Preview: Instant preview of uploaded images before processing.
 -AI-Powered Auto-Scaling: Automatically scale images to optimize for performance, using Cloudinary's AI-driven transformation API.
 -Responsive Image Delivery: Ensure that images are dynamically adjusted for various screen sizes and devices.
